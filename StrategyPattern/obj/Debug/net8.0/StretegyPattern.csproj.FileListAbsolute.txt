@@ -1,0 +1,14 @@
+/Users/suraj.rawat/RiderProjects/LLD/StretegyPattern/bin/Debug/net8.0/StretegyPattern
+/Users/suraj.rawat/RiderProjects/LLD/StretegyPattern/bin/Debug/net8.0/StretegyPattern.deps.json
+/Users/suraj.rawat/RiderProjects/LLD/StretegyPattern/bin/Debug/net8.0/StretegyPattern.runtimeconfig.json
+/Users/suraj.rawat/RiderProjects/LLD/StretegyPattern/bin/Debug/net8.0/StretegyPattern.dll
+/Users/suraj.rawat/RiderProjects/LLD/StretegyPattern/bin/Debug/net8.0/StretegyPattern.pdb
+/Users/suraj.rawat/RiderProjects/LLD/StretegyPattern/obj/Debug/net8.0/StretegyPattern.GeneratedMSBuildEditorConfig.editorconfig
+/Users/suraj.rawat/RiderProjects/LLD/StretegyPattern/obj/Debug/net8.0/StretegyPattern.AssemblyInfoInputs.cache
+/Users/suraj.rawat/RiderProjects/LLD/StretegyPattern/obj/Debug/net8.0/StretegyPattern.AssemblyInfo.cs
+/Users/suraj.rawat/RiderProjects/LLD/StretegyPattern/obj/Debug/net8.0/StretegyPattern.csproj.CoreCompileInputs.cache
+/Users/suraj.rawat/RiderProjects/LLD/StretegyPattern/obj/Debug/net8.0/StretegyPattern.dll
+/Users/suraj.rawat/RiderProjects/LLD/StretegyPattern/obj/Debug/net8.0/refint/StretegyPattern.dll
+/Users/suraj.rawat/RiderProjects/LLD/StretegyPattern/obj/Debug/net8.0/StretegyPattern.pdb
+/Users/suraj.rawat/RiderProjects/LLD/StretegyPattern/obj/Debug/net8.0/StretegyPattern.genruntimeconfig.cache
+/Users/suraj.rawat/RiderProjects/LLD/StretegyPattern/obj/Debug/net8.0/ref/StretegyPattern.dll
